@@ -43,7 +43,7 @@
                 "name": "Ubuntu-18.04 🐧",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "%LOCALAPPDATA%\\Packages\\CanonicalGroupLimited.Ubuntu16.04onWindows_79rhkp1fndgsc\\LocalState\\rootfs\\home\\",
-                "colorScheme": "killer liana",
+                "colorScheme": "killer-whale",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.8
             },
@@ -59,7 +59,7 @@
     // To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
     "schemes": [
         {
-            "name": "killer liana",
+            "name": "killer-whale",
             "black": "#040518",
             "red": "#dd7755",
             "green": "#995367",
